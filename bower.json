@@ -1,0 +1,27 @@
+{
+  "name": "baseproject",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Karthik Chilukamarri"
+  ]
+  "license": "ISC",
+  "keywords": [
+    "base"
+  ],
+  "homepage": "https://github.com/KarthikChilukamarri/baseProject",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular-route": "^1.5.8",
+    "angular-ui-router": "^0.3.1",
+    "bootstrap": "^3.3.7"
+  }
+}
